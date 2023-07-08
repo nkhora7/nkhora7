@@ -1,0 +1,2 @@
+- 👋 Ola, eus ou o Nicolas
+- 🌱 Estudando:
