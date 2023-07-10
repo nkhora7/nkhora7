@@ -1,2 +1,2 @@
 - 👋 Ola, eus ou o Nicolas
-- 🌱 Estudando:
+- 🌱 Estudando: HTML,CSS e JS
