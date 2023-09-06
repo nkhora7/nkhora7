@@ -3,4 +3,4 @@
 
 <h3>Linguagens</h1>
 
-![html](https://github.com/nkhora7/nkhora7/assets/132714964/21ed1d57-8bc4-4138-9c3e-28339679fd3f)
+<img src="![html](https://github.com/nkhora7/nkhora7/assets/132714964/21ed1d57-8bc4-4138-9c3e-28339679fd3f)" alt="HTML Logo" width="300"/>
