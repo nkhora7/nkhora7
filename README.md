@@ -2,5 +2,5 @@
 <ul> <li>🔭 Desenvolvedor Front-End</li> </ul>
 
 <h3>Linguagens</h1>
-( <p align="center">
-    <img windth="470" src=html.png)
+<p align="center">
+<img windth="470" src=html.png)
