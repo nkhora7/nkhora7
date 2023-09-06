@@ -1,1 +1,2 @@
-- 👋 Ola, eu sou o Nicolas
+Olá! Eu sou o Nicolas Kanashiro 👋
+🔭 Desenvolvedor Front-End
