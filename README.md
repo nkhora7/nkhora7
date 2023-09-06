@@ -2,5 +2,5 @@
 <ul> <li>🔭 Desenvolvedor Front-End</li> </ul>
 
 <h3>Linguagens</h1>
-![html](https://github.com/nkhora7/nkhora7/assets/132714964/dc7b374e-5117-4154-aa34-6a2d665a3124)
+<img width=40% src="![html](https://github.com/nkhora7/nkhora7/assets/132714964/dc7b374e-5117-4154-aa34-6a2d665a3124)"/>
 
