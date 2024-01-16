@@ -1,5 +1,5 @@
 <h1> Olá! Eu sou Nicolas Kanashiro 👋 </h1>
-<ul> <li>🔭 Desenvolvedor Front-End</li> </ul>
+<ul> <li>🔭 Futuro desenvolvedor Back-End</li> </ul>
 
 <h3>Linguagens</h1>
 
