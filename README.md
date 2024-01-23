@@ -1,5 +1,7 @@
 <h1> Olá! Eu sou Nicolas Kanashiro 👋 </h1>
-<ul> <li>🔭 Futuro desenvolvedor Back-End</li> </ul>
+<ul> <li> - 15 Anos </li></ul>
+<ul> <li> - Futuro desenvolvedor Back-End</li> </ul>
+
 
 <h3>Linguagem</h1>
 
