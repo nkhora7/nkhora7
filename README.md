@@ -1,5 +1,6 @@
 <h1> Hi! I'm Nicolas Kanashiro 👋 </h1>
 <ul> <li>👨‍🎓 15 Years</li></ul>
+<ul> <li>🌱 I'm currently learning Python </li> </ul>
 <ul> <li>🖥 Future backend developer </li> </ul>
 
 
