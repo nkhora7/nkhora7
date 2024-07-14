@@ -3,7 +3,8 @@
 <ul> <li>🌱 I'm currently learning JavaScript </li> </ul>
 <ul> <li>🖥 Future backend developer </li> </ul>
 
-<a href="(https://x.com/nicolashora7)"><img src="<a href="https://www.flaticon.com/free-icons/tweet"></a>" width="16"></img></a> [X](https://x.com/nicolashora7)  
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/nicolashora7)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nicolasdahora0708@gmail.com)
 
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkhora7&hide=html&layout=compact&theme=buefy" />  
