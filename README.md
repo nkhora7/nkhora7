@@ -3,7 +3,5 @@
 <ul> <li>🌱 I'm currently learning JavaScript </li> </ul>
 <ul> <li>🖥 Future backend developer </li> </ul>
 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkhora7&hide=html&layout=compact&theme=buefy" />  
 
-<h1>Language</h1>
-
-<img src="https://github.com/nkhora7/nkhora7/assets/132714964/efc0812b-66cb-4020-b008-c1a9b337af19" width=5% height=5%>
