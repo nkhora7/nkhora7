@@ -1,4 +1,4 @@
-<h1> Hi! I'm Nicolas Kanashiro 👋 </h1>
+<h1> I'm Nicolas Kanashiro 👋 </h1>
 <ul> <li>👨‍🎓 16 Years</li></ul>
 <ul> <li>🌱 I'm currently learning JavaScript </li> </ul>
 
